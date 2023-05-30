@@ -75,3 +75,12 @@ $uni-color-subtitle: #555555; // 二级标题颜色
 $uni-font-size-subtitle: 36rpx;
 $uni-color-paragraph: #3f536e; // 文章段落颜色
 $uni-font-size-paragraph: 30rpx;
+
+// 黑色色阶向下
+.color-black { color: #000; }
+.color-black-3 { color: #333; }
+.color-black-6 { color: #666; }
+.color-black-9 { color: #999; }
+
+.color-base { color: #5064eb; }
+.bg-color-base { background-color: #5064eb; }

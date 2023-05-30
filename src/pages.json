@@ -4,6 +4,33 @@
 		{
 			"path": "pages/index/index",
 			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#ffffff",
+				// #ifdef APP-PLUS
+				"enablePullDownRefresh": false,
+				// #endif
+				"app-plus": {
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/message/message",
+			"style": {
+				"navigationBarTitleText": "Message",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				// #ifdef APP-PLUS
+				"enablePullDownRefresh": false,
+				// #endif
+				"app-plus": {
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
 				"navigationStyle": "custom",
 				"navigationBarTextStyle": "white",
 				"navigationBarBackgroundColor": "#ffffff",
@@ -12,6 +39,16 @@
 				// #endif
 				"app-plus": {
 					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/login/areaCode",
+			"style": {
+				"navigationStyle": "custom",
+				"app-plus": {
+					"animationType": "slide-in-bottom",
+					"popGesture": "none"
 				}
 			}
 		}
@@ -24,24 +61,25 @@
 		"titleNView": true
 	},
 	"tabBar": {
-		"color": "#282828",
-		"selectedColor": "#E93323",
-		"borderStyle": "white",
+		"color": "#515151",
+		"selectedColor": "#5064eb",
+		"borderStyle": "#f5f5f5",
 		"backgroundColor": "#ffffff",
 		"list": [
 			{
 				"pagePath": "pages/index/index",
-				"iconPath": "static/images/1-001.png",
-				"selectedIconPath": "static/images/1-002.png",
-				"text": "Home"
+				"iconPath": "static/images/home-01.png",
+				"selectedIconPath": "static/images/home-02.png",
+				"text": "Merchant"
 			},
 			{
-				"pagePath": "pages/user/index",
-				"iconPath": "static/images/4-001.png",
-				"selectedIconPath": "static/images/4-002.png",
-				"text": "Me"
+				"pagePath": "pages/message/message",
+				"iconPath": "static/images/message-01.png",
+				"selectedIconPath": "static/images/message-02.png",
+				"text": "Message"
 			}
 		]
 	},
-	"easycom": {}
+	"easycom": {},
+	"subPackages": []
 }

@@ -1,6 +1,6 @@
 {
     "name" : "kping-merchant-app",
-    "appid" : "__UNI__ED438F3",
+    "appid" : "__UNI__705A3F8",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -16,7 +16,8 @@
             "delay" : 0
         },
         "modules" : {
-            "Canvas" : "nvue canvas"
+            "Canvas" : "nvue canvas",
+            "Barcode" : {}
         },
         "safearea" : {
             "bottom" : {
