@@ -1,0 +1,1550 @@
+{
+     "hot": [
+          {
+               "short": "CN",
+               "name": "中国",
+               "en": "China",
+               "tel": "86",
+               "flag": "../../static/flag/cn.png",
+               "isFirst": false
+          },
+          {
+               "short": "SG",
+               "name": "新加坡",
+               "en": "Singapore",
+               "tel": "65",
+               "flag": "../../static/flag/sg.png",
+               "isFirst": false
+          }
+     ],
+     "list": [
+          {
+               "short": "AD",
+               "name": "安道尔共和国",
+               "en": "Andorra",
+               "tel": "376",
+               "flag": "../../static/flag/ad.png",
+               "isFirst": true
+          },
+          {
+               "short": "AF",
+               "name": "阿富汗",
+               "en": "Afghanistan",
+               "tel": "93",
+               "flag": "../../static/flag/af.png",
+               "isFirst": false
+          },
+          {
+               "short": "AG",
+               "name": "安提瓜和巴布达",
+               "en": "AntiguaandBarbuda",
+               "tel": "1268",
+               "flag": "../../static/flag/ag.png",
+               "isFirst": false
+          },
+          {
+               "short": "AI",
+               "name": "安圭拉岛",
+               "en": "Anguilla",
+               "tel": "1264",
+               "flag": "../../static/flag/ai.png",
+               "isFirst": false
+          },
+          {
+               "short": "AL",
+               "name": "阿尔巴尼亚",
+               "en": "Albania",
+               "tel": "355",
+               "flag": "../../static/flag/al.png",
+               "isFirst": false
+          },
+          {
+               "short": "AM",
+               "name": "阿美尼亚",
+               "en": "Armenia",
+               "tel": "374",
+               "flag": "../../static/flag/am.png",
+               "isFirst": false
+          },
+          {
+               "short": "SH",
+               "name": "阿森松",
+               "en": "Ascension",
+               "tel": "247",
+               "flag": "../../static/flag/sh.png",
+               "isFirst": false
+          },
+          {
+               "short": "AO",
+               "name": "安哥拉",
+               "en": "Angola",
+               "tel": "244",
+               "flag": "../../static/flag/ao.png",
+               "isFirst": false
+          },
+          {
+               "short": "AR",
+               "name": "阿根廷",
+               "en": "Argentina",
+               "tel": "54",
+               "flag": "../../static/flag/ar.png",
+               "isFirst": false
+          },
+          {
+               "short": "AT",
+               "name": "奥地利",
+               "en": "Austria",
+               "tel": "43",
+               "flag": "../../static/flag/at.png",
+               "isFirst": false
+          },
+          {
+               "short": "AU",
+               "name": "澳大利亚",
+               "en": "Australia",
+               "tel": "61",
+               "flag": "../../static/flag/au.png",
+               "isFirst": false
+          },
+          {
+               "short": "AZ",
+               "name": "阿塞拜疆",
+               "en": "Azerbaijan",
+               "tel": "994",
+               "flag": "../../static/flag/az.png",
+               "isFirst": false
+          },
+          {
+               "short": "DZ",
+               "name": "阿尔及利亚",
+               "en": "Algeria",
+               "tel": "213",
+               "flag": "../../static/flag/dz.png",
+               "isFirst": false
+          },
+          {
+               "short": "BB",
+               "name": "巴巴多斯",
+               "en": "Barbados",
+               "tel": "1246",
+               "flag": "../../static/flag/bb.png",
+               "isFirst": true
+          },
+          {
+               "short": "BD",
+               "name": "孟加拉国",
+               "en": "Bangladesh",
+               "tel": "880",
+               "flag": "../../static/flag/bd.png",
+               "isFirst": false
+          },
+          {
+               "short": "BE",
+               "name": "比利时",
+               "en": "Belgium",
+               "tel": "32",
+               "flag": "../../static/flag/be.png",
+               "isFirst": false
+          },
+          {
+               "short": "BF",
+               "name": "布基纳法索",
+               "en": "Burkina-faso",
+               "tel": "226",
+               "flag": "../../static/flag/bf.png",
+               "isFirst": false
+          },
+          {
+               "short": "BG",
+               "name": "保加利亚",
+               "en": "Bulgaria",
+               "tel": "359",
+               "flag": "../../static/flag/bg.png",
+               "isFirst": false
+          },
+          {
+               "short": "BH",
+               "name": "巴林",
+               "en": "Bahrain",
+               "tel": "973",
+               "flag": "../../static/flag/bh.png",
+               "isFirst": false
+          },
+          {
+               "short": "BI",
+               "name": "布隆迪",
+               "en": "Burundi",
+               "tel": "257",
+               "flag": "../../static/flag/bi.png",
+               "isFirst": false
+          },
+          {
+               "short": "BJ",
+               "name": "贝宁",
+               "en": "Benin",
+               "tel": "229",
+               "flag": "../../static/flag/bj.png",
+               "isFirst": false
+          },
+          {
+               "short": "BM",
+               "name": "百慕大群岛",
+               "en": "BermudaIs.",
+               "tel": "1441",
+               "flag": "../../static/flag/bm.png",
+               "isFirst": false
+          },
+          {
+               "short": "BN",
+               "name": "文莱",
+               "en": "Brunei",
+               "tel": "673",
+               "flag": "../../static/flag/bn.png",
+               "isFirst": false
+          },
+          {
+               "short": "BO",
+               "name": "玻利维亚",
+               "en": "Bolivia",
+               "tel": "591",
+               "flag": "../../static/flag/bo.png",
+               "isFirst": false
+          },
+          {
+               "short": "BR",
+               "name": "巴西",
+               "en": "Brazil",
+               "tel": "55",
+               "flag": "../../static/flag/br.png",
+               "isFirst": false
+          },
+          {
+               "short": "BS",
+               "name": "巴哈马",
+               "en": "Bahamas",
+               "tel": "1242",
+               "flag": "../../static/flag/bs.png",
+               "isFirst": false
+          },
+          {
+               "short": "BW",
+               "name": "博茨瓦纳",
+               "en": "Botswana",
+               "tel": "267",
+               "flag": "../../static/flag/bw.png",
+               "isFirst": false
+          },
+          {
+               "short": "BY",
+               "name": "白俄罗斯",
+               "en": "Belarus",
+               "tel": "375",
+               "flag": "../../static/flag/by.png",
+               "isFirst": false
+          },
+          {
+               "short": "BZ",
+               "name": "伯利兹",
+               "en": "Belize",
+               "tel": "501",
+               "flag": "../../static/flag/bz.png",
+               "isFirst": false
+          },
+          {
+               "short": "CA",
+               "name": "加拿大",
+               "en": "Canada",
+               "tel": "1",
+               "flag": "../../static/flag/ca.png",
+               "isFirst": true
+          },
+          {
+               "short": "",
+               "name": "开曼群岛",
+               "en": "CaymanIs.",
+               "tel": "1345",
+               "flag": "",
+               "isFirst": false
+          },
+          {
+               "short": "CF",
+               "name": "中非共和国",
+               "en": "CentralAfricanRepublic",
+               "tel": "236",
+               "flag": "../../static/flag/cf.png",
+               "isFirst": false
+          },
+          {
+               "short": "CG",
+               "name": "刚果",
+               "en": "Congo",
+               "tel": "242",
+               "flag": "../../static/flag/cg.png",
+               "isFirst": false
+          },
+          {
+               "short": "CK",
+               "name": "库克群岛",
+               "en": "CookIs.",
+               "tel": "682",
+               "flag": "../../static/flag/ck.png",
+               "isFirst": false
+          },
+          {
+               "short": "CL",
+               "name": "智利",
+               "en": "Chile",
+               "tel": "56",
+               "flag": "../../static/flag/cl.png",
+               "isFirst": false
+          },
+          {
+               "short": "CM",
+               "name": "喀麦隆",
+               "en": "Cameroon",
+               "tel": "237",
+               "flag": "../../static/flag/cm.png",
+               "isFirst": false
+          },
+          {
+               "short": "CN",
+               "name": "中国",
+               "en": "China",
+               "tel": "86",
+               "flag": "../../static/flag/cn.png",
+               "isFirst": false
+          },
+          {
+               "short": "CO",
+               "name": "哥伦比亚",
+               "en": "Colombia",
+               "tel": "57",
+               "flag": "../../static/flag/co.png",
+               "isFirst": false
+          },
+          {
+               "short": "CR",
+               "name": "哥斯达黎加",
+               "en": "CostaRica",
+               "tel": "506",
+               "flag": "../../static/flag/cr.png",
+               "isFirst": false
+          },
+          {
+               "short": "CU",
+               "name": "古巴",
+               "en": "Cuba",
+               "tel": "53",
+               "flag": "../../static/flag/cu.png",
+               "isFirst": false
+          },
+          {
+               "short": "CY",
+               "name": "塞浦路斯",
+               "en": "Cyprus",
+               "tel": "357",
+               "flag": "../../static/flag/cy.png",
+               "isFirst": false
+          },
+          {
+               "short": "CZ",
+               "name": "捷克",
+               "en": "CzechRepublic",
+               "tel": "420",
+               "flag": "../../static/flag/cz.png",
+               "isFirst": false
+          },
+          {
+               "short": "TD",
+               "name": "乍得",
+               "en": "Chad",
+               "tel": "235",
+               "flag": "../../static/flag/td.png",
+               "isFirst": false
+          },
+          {
+               "short": "DJ",
+               "name": "吉布提",
+               "en": "Djibouti",
+               "tel": "253",
+               "flag": "../../static/flag/dj.png",
+               "isFirst": true
+          },
+          {
+               "short": "DK",
+               "name": "丹麦",
+               "en": "Denmark",
+               "tel": "45",
+               "flag": "../../static/flag/dk.png",
+               "isFirst": false
+          },
+          {
+               "short": "DO",
+               "name": "多米尼加共和国",
+               "en": "DominicaRep.",
+               "tel": "1890",
+               "flag": "../../static/flag/do.png",
+               "isFirst": false
+          },
+          {
+               "short": "EC",
+               "name": "厄瓜多尔",
+               "en": "Ecuador",
+               "tel": "593",
+               "flag": "../../static/flag/ec.png",
+               "isFirst": true
+          },
+          {
+               "short": "EE",
+               "name": "爱沙尼亚",
+               "en": "Estonia",
+               "tel": "372",
+               "flag": "../../static/flag/ee.png",
+               "isFirst": false
+          },
+          {
+               "short": "EG",
+               "name": "埃及",
+               "en": "Egypt",
+               "tel": "20",
+               "flag": "../../static/flag/eg.png",
+               "isFirst": false
+          },
+          {
+               "short": "ET",
+               "name": "埃塞俄比亚",
+               "en": "Ethiopia",
+               "tel": "251",
+               "flag": "../../static/flag/et.png",
+               "isFirst": false
+          },
+          {
+               "short": "SV",
+               "name": "萨尔瓦多",
+               "en": "EISalvador",
+               "tel": "503",
+               "flag": "../../static/flag/sv.png",
+               "isFirst": false
+          },
+          {
+               "short": "FI",
+               "name": "芬兰",
+               "en": "Finland",
+               "tel": "358",
+               "flag": "../../static/flag/fi.png",
+               "isFirst": true
+          },
+          {
+               "short": "FJ",
+               "name": "斐济",
+               "en": "Fiji",
+               "tel": "679",
+               "flag": "../../static/flag/fj.png",
+               "isFirst": false
+          },
+          {
+               "short": "FR",
+               "name": "法国",
+               "en": "France",
+               "tel": "33",
+               "flag": "../../static/flag/fr.png",
+               "isFirst": false
+          },
+          {
+               "short": "PF",
+               "name": "法属玻利尼西亚",
+               "en": "FrenchPolynesia",
+               "tel": "689",
+               "flag": "../../static/flag/pf.png",
+               "isFirst": false
+          },
+          {
+               "short": "GF",
+               "name": "法属圭亚那",
+               "en": "FrenchGuiana",
+               "tel": "594",
+               "flag": "../../static/flag/gf.png",
+               "isFirst": false
+          },
+          {
+               "short": "DE",
+               "name": "德国",
+               "en": "Germany",
+               "tel": "49",
+               "flag": "../../static/flag/de.png",
+               "isFirst": true
+          },
+          {
+               "short": "GA",
+               "name": "加蓬",
+               "en": "Gabon",
+               "tel": "241",
+               "flag": "../../static/flag/ga.png",
+               "isFirst": false
+          },
+          {
+               "short": "GD",
+               "name": "格林纳达",
+               "en": "Grenada",
+               "tel": "1809",
+               "flag": "../../static/flag/gd.png",
+               "isFirst": false
+          },
+          {
+               "short": "GE",
+               "name": "格鲁吉亚",
+               "en": "Georgia",
+               "tel": "995",
+               "flag": "../../static/flag/ge.png",
+               "isFirst": false
+          },
+          {
+               "short": "GH",
+               "name": "加纳",
+               "en": "Ghana",
+               "tel": "233",
+               "flag": "../../static/flag/gh.png",
+               "isFirst": false
+          },
+          {
+               "short": "GI",
+               "name": "直布罗陀",
+               "en": "Gibraltar",
+               "tel": "350",
+               "flag": "../../static/flag/gi.png",
+               "isFirst": false
+          },
+          {
+               "short": "GM",
+               "name": "冈比亚",
+               "en": "Gambia",
+               "tel": "220",
+               "flag": "../../static/flag/gm.png",
+               "isFirst": false
+          },
+          {
+               "short": "GN",
+               "name": "几内亚",
+               "en": "Guinea",
+               "tel": "224",
+               "flag": "../../static/flag/gn.png",
+               "isFirst": false
+          },
+          {
+               "short": "GR",
+               "name": "希腊",
+               "en": "Greece",
+               "tel": "30",
+               "flag": "../../static/flag/gr.png",
+               "isFirst": false
+          },
+          {
+               "short": "GT",
+               "name": "危地马拉",
+               "en": "Guatemala",
+               "tel": "502",
+               "flag": "../../static/flag/gt.png",
+               "isFirst": false
+          },
+          {
+               "short": "GU",
+               "name": "关岛",
+               "en": "Guam",
+               "tel": "1671",
+               "flag": "../../static/flag/gu.png",
+               "isFirst": false
+          },
+          {
+               "short": "GY",
+               "name": "圭亚那",
+               "en": "Guyana",
+               "tel": "592",
+               "flag": "../../static/flag/gy.png",
+               "isFirst": false
+          },
+          {
+               "short": "HK",
+               "name": "香港(中国)",
+               "en": "Hongkong",
+               "tel": "852",
+               "flag": "../../static/flag/hk.png",
+               "isFirst": true
+          },
+          {
+               "short": "HN",
+               "name": "洪都拉斯",
+               "en": "Honduras",
+               "tel": "504",
+               "flag": "../../static/flag/hn.png",
+               "isFirst": false
+          },
+          {
+               "short": "HT",
+               "name": "海地",
+               "en": "Haiti",
+               "tel": "509",
+               "flag": "../../static/flag/ht.png",
+               "isFirst": false
+          },
+          {
+               "short": "HU",
+               "name": "匈牙利",
+               "en": "Hungary",
+               "tel": "36",
+               "flag": "../../static/flag/hu.png",
+               "isFirst": false
+          },
+          {
+               "short": "ID",
+               "name": "印度尼西亚",
+               "en": "Indonesia",
+               "tel": "62",
+               "flag": "../../static/flag/id.png",
+               "isFirst": true
+          },
+          {
+               "short": "IE",
+               "name": "爱尔兰",
+               "en": "Ireland",
+               "tel": "353",
+               "flag": "../../static/flag/ie.png",
+               "isFirst": false
+          },
+          {
+               "short": "IL",
+               "name": "以色列",
+               "en": "Israel",
+               "tel": "972",
+               "flag": "../../static/flag/il.png",
+               "isFirst": false
+          },
+          {
+               "short": "IN",
+               "name": "印度",
+               "en": "India",
+               "tel": "91",
+               "flag": "../../static/flag/in.png",
+               "isFirst": false
+          },
+          {
+               "short": "IQ",
+               "name": "伊拉克",
+               "en": "Iraq",
+               "tel": "964",
+               "flag": "../../static/flag/iq.png",
+               "isFirst": false
+          },
+          {
+               "short": "IR",
+               "name": "伊朗",
+               "en": "Iran",
+               "tel": "98",
+               "flag": "../../static/flag/ir.png",
+               "isFirst": false
+          },
+          {
+               "short": "IS",
+               "name": "冰岛",
+               "en": "Iceland",
+               "tel": "354",
+               "flag": "../../static/flag/is.png",
+               "isFirst": false
+          },
+          {
+               "short": "IT",
+               "name": "意大利",
+               "en": "Italy",
+               "tel": "39",
+               "flag": "../../static/flag/it.png",
+               "isFirst": false
+          },
+          {
+               "short": "",
+               "name": "科特迪瓦",
+               "en": "IvoryCoast",
+               "tel": "225",
+               "flag": "",
+               "isFirst": false
+          },
+          {
+               "short": "JM",
+               "name": "牙买加",
+               "en": "Jamaica",
+               "tel": "1876",
+               "flag": "../../static/flag/jm.png",
+               "isFirst": true
+          },
+          {
+               "short": "JO",
+               "name": "约旦",
+               "en": "Jordan",
+               "tel": "962",
+               "flag": "../../static/flag/jo.png",
+               "isFirst": false
+          },
+          {
+               "short": "JP",
+               "name": "日本",
+               "en": "Japan",
+               "tel": "81",
+               "flag": "../../static/flag/jp.png",
+               "isFirst": false
+          },
+          {
+               "short": "KE",
+               "name": "肯尼亚",
+               "en": "Kenya",
+               "tel": "254",
+               "flag": "../../static/flag/ke.png",
+               "isFirst": true
+          },
+          {
+               "short": "KG",
+               "name": "吉尔吉斯坦",
+               "en": "Kyrgyzstan",
+               "tel": "331",
+               "flag": "../../static/flag/kg.png",
+               "isFirst": false
+          },
+          {
+               "short": "KH",
+               "name": "柬埔寨",
+               "en": "Kampuchea(Cambodia)",
+               "tel": "855",
+               "flag": "../../static/flag/kh.png",
+               "isFirst": false
+          },
+          {
+               "short": "KR",
+               "name": "韩国",
+               "en": "Korea",
+               "tel": "82",
+               "flag": "../../static/flag/kr.png",
+               "isFirst": false
+          },
+          {
+               "short": "KW",
+               "name": "科威特",
+               "en": "Kuwait",
+               "tel": "965",
+               "flag": "../../static/flag/kw.png",
+               "isFirst": false
+          },
+          {
+               "short": "KZ",
+               "name": "哈萨克斯坦",
+               "en": "Kazakstan",
+               "tel": "327",
+               "flag": "../../static/flag/kz.png",
+               "isFirst": false
+          },
+          {
+               "short": "LA",
+               "name": "老挝",
+               "en": "Laos",
+               "tel": "856",
+               "flag": "../../static/flag/la.png",
+               "isFirst": true
+          },
+          {
+               "short": "LB",
+               "name": "黎巴嫩",
+               "en": "Lebanon",
+               "tel": "961",
+               "flag": "../../static/flag/lb.png",
+               "isFirst": false
+          },
+          {
+               "short": "LI",
+               "name": "列支敦士登",
+               "en": "Liechtenstein",
+               "tel": "423",
+               "flag": "../../static/flag/li.png",
+               "isFirst": false
+          },
+          {
+               "short": "LR",
+               "name": "利比里亚",
+               "en": "Liberia",
+               "tel": "231",
+               "flag": "../../static/flag/lr.png",
+               "isFirst": false
+          },
+          {
+               "short": "LS",
+               "name": "莱索托",
+               "en": "Lesotho",
+               "tel": "266",
+               "flag": "../../static/flag/ls.png",
+               "isFirst": false
+          },
+          {
+               "short": "LT",
+               "name": "立陶宛",
+               "en": "Lithuania",
+               "tel": "370",
+               "flag": "../../static/flag/lt.png",
+               "isFirst": false
+          },
+          {
+               "short": "LU",
+               "name": "卢森堡",
+               "en": "Luxembourg",
+               "tel": "352",
+               "flag": "../../static/flag/lu.png",
+               "isFirst": false
+          },
+          {
+               "short": "LV",
+               "name": "拉脱维亚",
+               "en": "Latvia",
+               "tel": "371",
+               "flag": "../../static/flag/lv.png",
+               "isFirst": false
+          },
+          {
+               "short": "LY",
+               "name": "利比亚",
+               "en": "Libya",
+               "tel": "218",
+               "flag": "../../static/flag/ly.png",
+               "isFirst": false
+          },
+          {
+               "short": "MA",
+               "name": "摩洛哥",
+               "en": "Morocco",
+               "tel": "212",
+               "flag": "../../static/flag/ma.png",
+               "isFirst": true
+          },
+          {
+               "short": "MC",
+               "name": "摩纳哥",
+               "en": "Monaco",
+               "tel": "377",
+               "flag": "../../static/flag/mc.png",
+               "isFirst": false
+          },
+          {
+               "short": "MD",
+               "name": "摩尔多瓦",
+               "en": "Moldova,Republicof",
+               "tel": "373",
+               "flag": "../../static/flag/md.png",
+               "isFirst": false
+          },
+          {
+               "short": "MG",
+               "name": "马达加斯加",
+               "en": "Madagascar",
+               "tel": "261",
+               "flag": "../../static/flag/mg.png",
+               "isFirst": false
+          },
+          {
+               "short": "ML",
+               "name": "马里",
+               "en": "Mali",
+               "tel": "223",
+               "flag": "../../static/flag/ml.png",
+               "isFirst": false
+          },
+          {
+               "short": "MM",
+               "name": "缅甸",
+               "en": "Burma",
+               "tel": "95",
+               "flag": "../../static/flag/mm.png",
+               "isFirst": false
+          },
+          {
+               "short": "MN",
+               "name": "蒙古",
+               "en": "Mongolia",
+               "tel": "976",
+               "flag": "../../static/flag/mn.png",
+               "isFirst": false
+          },
+          {
+               "short": "MO",
+               "name": "澳门（中国）",
+               "en": "Macao",
+               "tel": "853",
+               "flag": "../../static/flag/mo.png",
+               "isFirst": false
+          },
+          {
+               "short": "MS",
+               "name": "蒙特塞拉特岛",
+               "en": "MontserratIs",
+               "tel": "1664",
+               "flag": "../../static/flag/ms.png",
+               "isFirst": false
+          },
+          {
+               "short": "MT",
+               "name": "马耳他",
+               "en": "Malta",
+               "tel": "356",
+               "flag": "../../static/flag/mt.png",
+               "isFirst": false
+          },
+          {
+               "short": "",
+               "name": "马里亚那群岛",
+               "en": "MarianaIs",
+               "tel": "1670",
+               "flag": "",
+               "isFirst": false
+          },
+          {
+               "short": "",
+               "name": "马提尼克",
+               "en": "Martinique",
+               "tel": "596",
+               "flag": "",
+               "isFirst": false
+          },
+          {
+               "short": "MU",
+               "name": "毛里求斯",
+               "en": "Mauritius",
+               "tel": "230",
+               "flag": "../../static/flag/mu.png",
+               "isFirst": false
+          },
+          {
+               "short": "MV",
+               "name": "马尔代夫",
+               "en": "Maldives",
+               "tel": "960",
+               "flag": "../../static/flag/mv.png",
+               "isFirst": false
+          },
+          {
+               "short": "MW",
+               "name": "马拉维",
+               "en": "Malawi",
+               "tel": "265",
+               "flag": "../../static/flag/mw.png",
+               "isFirst": false
+          },
+          {
+               "short": "MX",
+               "name": "墨西哥",
+               "en": "Mexico",
+               "tel": "52",
+               "flag": "../../static/flag/mx.png",
+               "isFirst": false
+          },
+          {
+               "short": "MY",
+               "name": "马来西亚",
+               "en": "Malaysia",
+               "tel": "60",
+               "flag": "../../static/flag/my.png",
+               "isFirst": false
+          },
+          {
+               "short": "MZ",
+               "name": "莫桑比克",
+               "en": "Mozambique",
+               "tel": "258",
+               "flag": "../../static/flag/mz.png",
+               "isFirst": false
+          },
+          {
+               "short": "NA",
+               "name": "纳米比亚",
+               "en": "Namibia",
+               "tel": "264",
+               "flag": "../../static/flag/na.png",
+               "isFirst": true
+          },
+          {
+               "short": "NE",
+               "name": "尼日尔",
+               "en": "Niger",
+               "tel": "977",
+               "flag": "../../static/flag/ne.png",
+               "isFirst": false
+          },
+          {
+               "short": "NG",
+               "name": "尼日利亚",
+               "en": "Nigeria",
+               "tel": "234",
+               "flag": "../../static/flag/ng.png",
+               "isFirst": false
+          },
+          {
+               "short": "NI",
+               "name": "尼加拉瓜",
+               "en": "Nicaragua",
+               "tel": "505",
+               "flag": "../../static/flag/ni.png",
+               "isFirst": false
+          },
+          {
+               "short": "NL",
+               "name": "荷兰",
+               "en": "Netherlands",
+               "tel": "31",
+               "flag": "../../static/flag/nl.png",
+               "isFirst": false
+          },
+          {
+               "short": "NO",
+               "name": "挪威",
+               "en": "Norway",
+               "tel": "47",
+               "flag": "../../static/flag/no.png",
+               "isFirst": false
+          },
+          {
+               "short": "NP",
+               "name": "尼泊尔",
+               "en": "Nepal",
+               "tel": "977",
+               "flag": "../../static/flag/np.png",
+               "isFirst": false
+          },
+          {
+               "short": "KP",
+               "name": "朝鲜",
+               "en": "NorthKorea",
+               "tel": "850",
+               "flag": "../../static/flag/kp.png",
+               "isFirst": false
+          },
+          {
+               "short": "NR",
+               "name": "瑙鲁",
+               "en": "Nauru",
+               "tel": "674",
+               "flag": "../../static/flag/nr.png",
+               "isFirst": false
+          },
+          {
+               "short": "NZ",
+               "name": "新西兰",
+               "en": "NewZealand",
+               "tel": "64",
+               "flag": "../../static/flag/nz.png",
+               "isFirst": false
+          },
+          {
+               "short": "OM",
+               "name": "阿曼",
+               "en": "Oman",
+               "tel": "968",
+               "flag": "../../static/flag/om.png",
+               "isFirst": true
+          },
+          {
+               "short": "PA",
+               "name": "巴拿马",
+               "en": "Panama",
+               "tel": "507",
+               "flag": "../../static/flag/pa.png",
+               "isFirst": true
+          },
+          {
+               "short": "PE",
+               "name": "秘鲁",
+               "en": "Peru",
+               "tel": "51",
+               "flag": "../../static/flag/pe.png",
+               "isFirst": false
+          },
+          {
+               "short": "PG",
+               "name": "巴布亚新几内亚",
+               "en": "PapuaNewCuinea",
+               "tel": "675",
+               "flag": "../../static/flag/pg.png",
+               "isFirst": false
+          },
+          {
+               "short": "PH",
+               "name": "菲律宾",
+               "en": "Philippines",
+               "tel": "63",
+               "flag": "../../static/flag/ph.png",
+               "isFirst": false
+          },
+          {
+               "short": "PK",
+               "name": "巴基斯坦",
+               "en": "Pakistan",
+               "tel": "92",
+               "flag": "../../static/flag/pk.png",
+               "isFirst": false
+          },
+          {
+               "short": "PL",
+               "name": "波兰",
+               "en": "Poland",
+               "tel": "48",
+               "flag": "../../static/flag/pl.png",
+               "isFirst": false
+          },
+          {
+               "short": "PR",
+               "name": "波多黎各",
+               "en": "PuertoRico",
+               "tel": "1787",
+               "flag": "../../static/flag/pr.png",
+               "isFirst": false
+          },
+          {
+               "short": "PT",
+               "name": "葡萄牙",
+               "en": "Portugal",
+               "tel": "351",
+               "flag": "../../static/flag/pt.png",
+               "isFirst": false
+          },
+          {
+               "short": "PY",
+               "name": "巴拉圭",
+               "en": "Paraguay",
+               "tel": "595",
+               "flag": "../../static/flag/py.png",
+               "isFirst": false
+          },
+          {
+               "short": "BL",
+               "name": "巴勒斯坦",
+               "en": "Palestine",
+               "tel": "970",
+               "flag": "../../static/flag/bl.png",
+               "isFirst": false
+          },
+          {
+               "short": "QA",
+               "name": "卡塔尔",
+               "en": "Qatar",
+               "tel": "974",
+               "flag": "../../static/flag/qa.png",
+               "isFirst": true
+          },
+          {
+               "short": "KT",
+               "name": "科特迪瓦共和国",
+               "en": "RepublicofIvoryCoast",
+               "tel": "225",
+               "flag": "",
+               "isFirst": true
+          },
+          {
+               "short": "",
+               "name": "留尼旺",
+               "en": "Reunion",
+               "tel": "262",
+               "flag": "",
+               "isFirst": false
+          },
+          {
+               "short": "RO",
+               "name": "罗马尼亚",
+               "en": "Romania",
+               "tel": "40",
+               "flag": "../../static/flag/ro.png",
+               "isFirst": false
+          },
+          {
+               "short": "RU",
+               "name": "俄罗斯",
+               "en": "Russia",
+               "tel": "7",
+               "flag": "../../static/flag/ru.png",
+               "isFirst": false
+          },
+          {
+               "short": "SA",
+               "name": "沙特阿拉伯",
+               "en": "SaudiArabia",
+               "tel": "966",
+               "flag": "../../static/flag/sa.png",
+               "isFirst": true
+          },
+          {
+               "short": "LC",
+               "name": "圣卢西亚",
+               "en": "St.Lucia",
+               "tel": "1758",
+               "flag": "../../static/flag/lc.png",
+               "isFirst": false
+          },
+          {
+               "short": "LK",
+               "name": "斯里兰卡",
+               "en": "SriLanka",
+               "tel": "94",
+               "flag": "../../static/flag/lk.png",
+               "isFirst": false
+          },
+          {
+               "short": "SB",
+               "name": "所罗门群岛",
+               "en": "SolomonIs",
+               "tel": "677",
+               "flag": "../../static/flag/sb.png",
+               "isFirst": false
+          },
+          {
+               "short": "SC",
+               "name": "塞舌尔",
+               "en": "Seychelles",
+               "tel": "248",
+               "flag": "../../static/flag/sc.png",
+               "isFirst": false
+          },
+          {
+               "short": "SD",
+               "name": "苏丹",
+               "en": "Sudan",
+               "tel": "249",
+               "flag": "../../static/flag/sd.png",
+               "isFirst": false
+          },
+          {
+               "short": "SE",
+               "name": "瑞典",
+               "en": "Sweden",
+               "tel": "46",
+               "flag": "../../static/flag/se.png",
+               "isFirst": false
+          },
+          {
+               "short": "SG",
+               "name": "新加坡",
+               "en": "Singapore",
+               "tel": "65",
+               "flag": "../../static/flag/sg.png",
+               "isFirst": false
+          },
+          {
+               "short": "SI",
+               "name": "斯洛文尼亚",
+               "en": "Slovenia",
+               "tel": "386",
+               "flag": "../../static/flag/si.png",
+               "isFirst": false
+          },
+          {
+               "short": "SK",
+               "name": "斯洛伐克",
+               "en": "Slovakia",
+               "tel": "421",
+               "flag": "../../static/flag/sk.png",
+               "isFirst": false
+          },
+          {
+               "short": "SL",
+               "name": "塞拉利昂",
+               "en": "SierraLeone",
+               "tel": "232",
+               "flag": "../../static/flag/sl.png",
+               "isFirst": false
+          },
+          {
+               "short": "SM",
+               "name": "圣马力诺",
+               "en": "SanMarino",
+               "tel": "378",
+               "flag": "../../static/flag/sm.png",
+               "isFirst": false
+          },
+          {
+               "short": "AS",
+               "name": "东萨摩亚(美)",
+               "en": "SamoaEastern",
+               "tel": "684",
+               "flag": "../../static/flag/as.png",
+               "isFirst": false
+          },
+          {
+               "short": "WS",
+               "name": "西萨摩亚",
+               "en": "SanMarino",
+               "tel": "685",
+               "flag": "../../static/flag/ws.png",
+               "isFirst": false
+          },
+          {
+               "short": "SN",
+               "name": "塞内加尔",
+               "en": "Senegal",
+               "tel": "221",
+               "flag": "../../static/flag/sn.png",
+               "isFirst": false
+          },
+          {
+               "short": "SO",
+               "name": "索马里",
+               "en": "Somali",
+               "tel": "252",
+               "flag": "../../static/flag/so.png",
+               "isFirst": false
+          },
+          {
+               "short": "SR",
+               "name": "苏里南",
+               "en": "Suriname",
+               "tel": "597",
+               "flag": "../../static/flag/sr.png",
+               "isFirst": false
+          },
+          {
+               "short": "ST",
+               "name": "圣多美和普林西比",
+               "en": "SaoTomeandPrincipe",
+               "tel": "239",
+               "flag": "../../static/flag/st.png",
+               "isFirst": false
+          },
+          {
+               "short": "SY",
+               "name": "叙利亚",
+               "en": "Syria",
+               "tel": "963",
+               "flag": "../../static/flag/sy.png",
+               "isFirst": false
+          },
+          {
+               "short": "SZ",
+               "name": "斯威士兰",
+               "en": "Swaziland",
+               "tel": "268",
+               "flag": "../../static/flag/sz.png",
+               "isFirst": false
+          },
+          {
+               "short": "VC",
+               "name": "圣文森特岛",
+               "en": "SaintVincent",
+               "tel": "1784",
+               "flag": "../../static/flag/vc.png",
+               "isFirst": false
+          },
+          {
+               "short": "CH",
+               "name": "瑞士",
+               "en": "Switzerland",
+               "tel": "41",
+               "flag": "../../static/flag/ch.png",
+               "isFirst": false
+          },
+          {
+               "short": "ES",
+               "name": "西班牙",
+               "en": "Spain",
+               "tel": "34",
+               "flag": "../../static/flag/es.png",
+               "isFirst": false
+          },
+          {
+               "short": "ZA",
+               "name": "南非",
+               "en": "SouthAfrica",
+               "tel": "27",
+               "flag": "../../static/flag/za.png",
+               "isFirst": false
+          },
+          {
+               "short": "TG",
+               "name": "多哥",
+               "en": "Togo",
+               "tel": "228",
+               "flag": "../../static/flag/tg.png",
+               "isFirst": true
+          },
+          {
+               "short": "TH",
+               "name": "泰国",
+               "en": "Thailand",
+               "tel": "66",
+               "flag": "../../static/flag/th.png",
+               "isFirst": false
+          },
+          {
+               "short": "TJ",
+               "name": "塔吉克斯坦",
+               "en": "Tajikstan",
+               "tel": "992",
+               "flag": "../../static/flag/tj.png",
+               "isFirst": false
+          },
+          {
+               "short": "TM",
+               "name": "土库曼斯坦",
+               "en": "Turkmenistan",
+               "tel": "993",
+               "flag": "../../static/flag/tm.png",
+               "isFirst": false
+          },
+          {
+               "short": "TN",
+               "name": "突尼斯",
+               "en": "Tunisia",
+               "tel": "216",
+               "flag": "../../static/flag/tn.png",
+               "isFirst": false
+          },
+          {
+               "short": "TO",
+               "name": "汤加",
+               "en": "Tonga",
+               "tel": "676",
+               "flag": "../../static/flag/to.png",
+               "isFirst": false
+          },
+          {
+               "short": "TR",
+               "name": "土耳其",
+               "en": "Turkey",
+               "tel": "90",
+               "flag": "../../static/flag/tr.png",
+               "isFirst": false
+          },
+          {
+               "short": "TT",
+               "name": "特立尼达和多巴哥",
+               "en": "TrinidadandTobago",
+               "tel": "1809",
+               "flag": "../../static/flag/tt.png",
+               "isFirst": false
+          },
+          {
+               "short": "TW",
+               "name": "台湾（中国）",
+               "en": "Taiwan",
+               "tel": "886",
+               "flag": "../../static/flag/tw.png",
+               "isFirst": false
+          },
+          {
+               "short": "TZ",
+               "name": "坦桑尼亚",
+               "en": "Tanzania",
+               "tel": "255",
+               "flag": "../../static/flag/tz.png",
+               "isFirst": false
+          },
+          {
+               "short": "GB",
+               "name": "英国",
+               "en": "UnitedKingdom",
+               "tel": "44",
+               "flag": "../../static/flag/gb.png",
+               "isFirst": true
+          },
+          {
+               "short": "AE",
+               "name": "阿拉伯联合酋长国",
+               "en": "UnitedArabEmirates",
+               "tel": "971",
+               "flag": "../../static/flag/ae.png",
+               "isFirst": false
+          },
+          {
+               "short": "UA",
+               "name": "乌克兰",
+               "en": "Ukraine",
+               "tel": "380",
+               "flag": "../../static/flag/ua.png",
+               "isFirst": false
+          },
+          {
+               "short": "UG",
+               "name": "乌干达",
+               "en": "Uganda",
+               "tel": "256",
+               "flag": "../../static/flag/ug.png",
+               "isFirst": false
+          },
+          {
+               "short": "US",
+               "name": "美国",
+               "en": "UnitedStatesAmerica",
+               "tel": "1",
+               "flag": "../../static/flag/us.png",
+               "isFirst": false
+          },
+          {
+               "short": "UY",
+               "name": "乌拉圭",
+               "en": "Uruguay",
+               "tel": "598",
+               "flag": "../../static/flag/uy.png",
+               "isFirst": false
+          },
+          {
+               "short": "UZ",
+               "name": "乌兹别克斯坦",
+               "en": "Uzbekistan",
+               "tel": "233",
+               "flag": "../../static/flag/uz.png",
+               "isFirst": false
+          },
+          {
+               "short": "VE",
+               "name": "委内瑞拉",
+               "en": "Venezuela",
+               "tel": "58",
+               "flag": "../../static/flag/ve.png",
+               "isFirst": true
+          },
+          {
+               "short": "VN",
+               "name": "越南",
+               "en": "Vietnam",
+               "tel": "84",
+               "flag": "../../static/flag/vn.png",
+               "isFirst": false
+          },
+          {
+               "short": "YE",
+               "name": "也门",
+               "en": "Yemen",
+               "tel": "967",
+               "flag": "../../static/flag/ye.png",
+               "isFirst": true
+          },
+          {
+               "short": "YU",
+               "name": "南斯拉夫",
+               "en": "Yugoslavia",
+               "tel": "381",
+               "flag": "",
+               "isFirst": false
+          },
+          {
+               "short": "ZM",
+               "name": "赞比亚",
+               "en": "Zambia",
+               "tel": "260",
+               "flag": "../../static/flag/zm.png",
+               "isFirst": true
+          },
+          {
+               "short": "ZR",
+               "name": "扎伊尔",
+               "en": "Zaire",
+               "tel": "243",
+               "flag": "",
+               "isFirst": false
+          },
+          {
+               "short": "ZW",
+               "name": "津巴布韦",
+               "en": "Zimbabwe",
+               "tel": "263",
+               "flag": "../../static/flag/zw.png",
+               "isFirst": false
+          }
+     ]
+}
