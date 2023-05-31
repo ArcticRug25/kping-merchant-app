@@ -1,6 +1,6 @@
 <template>
   <tm-app class="k-bg-#f5f5f5 k-w-screen k-min-h-screen">
-    <tm-navbar title="Message" color="#5064eb" linear="right" linearDeep="accent" :shadow="8" hideHome></tm-navbar>
+    <tm-navbar title="Message" color="#5064eb" :shadow="8" hideHome></tm-navbar>
     <tm-slide-switch v-for="item in 4" :key="item" :height="120" :rightWidth="120">
       <tm-cell
         :margin="[0, 0]"

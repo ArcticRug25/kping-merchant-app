@@ -115,15 +115,15 @@
 </template>
 
 <script setup lang="ts">
-import { use } from 'echarts'
 import tmNotification from '@/tmui/components/tm-notification/tm-notification.vue'
 import { UserAuth, EventEmit } from '@/enum/index'
-import user from '@/api/modules/user'
 
 defineOptions({
   name: 'LoginPage',
 })
 const { statusBarHeight } = uni.$tm.u.getWindow()
+const stickyOffset = ref('0')
+stickyOffset.value = `${statusBarHeight}px`
 const active = ref(0)
 const phone = ref('189')
 // 验证码
@@ -191,12 +191,11 @@ const handleChooseAreaCode = () => {
 
 // 登录
 const handleLogin = () => {
-  const isRight = validateForm(false)
-  const userStore = useUserStore()
-  userStore.token = 'Success'
-  uni.$emit(EventEmit.HANDLE_USER_LOGIN, UserAuth.LOGIN)
+  // const isRight = validateForm(false)
+  // const userStore = useUserStore()
+  // userStore.token = 'Success'
   uni.navigateBack()
-  if (!isRight) return
+  // if (!isRight) return
   if (isPassword.value) {
     // 密码登录
   } else {
@@ -209,7 +208,9 @@ const handleRegister = () => {
   const userStore = useUserStore()
   userStore.token = 'Success'
   uni.$emit(EventEmit.HANDLE_USER_LOGIN, UserAuth.REGISTER)
-  uni.navigateBack()
+  uni.navigateTo({
+    url: '/pages/merchantForm/merchantForm',
+  })
 }
 </script>
 
@@ -238,5 +239,9 @@ const handleRegister = () => {
   ::v-deep input {
     margin-left: 18rpx;
   }
+}
+
+.error-tip {
+  top: v-bind(stickyOffset) !important;
 }
 </style>
