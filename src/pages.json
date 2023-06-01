@@ -39,7 +39,8 @@
 				"enablePullDownRefresh": false,
 				// #endif
 				"app-plus": {
-					"scrollIndicator": "none"
+					"animationType": "slide-in-bottom",
+					"popGesture": "none"
 				}
 			}
 		},
@@ -84,6 +85,20 @@
 			"style": {
 				"navigationStyle": "custom",
 				"navigationBarTextStyle": "white",
+				// #ifdef APP-PLUS
+				"enablePullDownRefresh": false,
+				// #endif
+				"app-plus": {
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/verificationResult/verificationResult",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"navigationStyle": "custom",
+				"navigationBarBackgroundColor": "#ffffff",
 				// #ifdef APP-PLUS
 				"enablePullDownRefresh": false,
 				// #endif

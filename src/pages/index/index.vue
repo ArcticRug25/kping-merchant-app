@@ -35,7 +35,7 @@
           <tm-text color="#6E6E85" :font-size="24">yday 0</tm-text>
         </view>
       </view>
-      <view class="k-bg-#FDFDFD k-rounded-lg k-w-full k-box-border k-mt-5 k-px-4 k-overflow-hidden k-shadow-sm">
+      <!-- <view class="k-bg-#FDFDFD k-rounded-lg k-w-full k-box-border k-mt-5 k-px-4 k-overflow-hidden k-shadow-sm">
         <view class="k-my-3">
           <tm-text class="k-font-bold" color="#2a2a2a" :font-size="34">Store Operations</tm-text>
         </view>
@@ -53,7 +53,7 @@
             <tm-text color="#393A43" :font-size="26">Input Verify</tm-text>
           </view>
         </view>
-      </view>
+      </view> -->
       <view class="k-bg-#FDFDFD k-rounded-lg k-w-full k-box-border k-mt-5 k-px-4 k-overflow-hidden k-shadow-sm">
         <view class="k-my-3">
           <tm-text class="k-font-bold" color="#2a2a2a" :font-size="34">Store Data</tm-text>
@@ -67,12 +67,14 @@
           </view>
         </view>
       </view>
+      <WriteOff class="k-mt-2" />
     </view>
   </tm-app>
 </template>
 
 <script setup lang="ts">
 import { onLoad, onUnload } from '@dcloudio/uni-app'
+import WriteOff from './component/writeOff.vue'
 import { EventEmit } from '@/enum'
 
 onLoad(() => {
@@ -95,15 +97,6 @@ userStore.token = ''
 if (!userStore.token) {
   uni.navigateTo({
     url: '/pages/login/login',
-  })
-}
-
-// 扫码
-const handleScanCode = () => {
-  uni.scanCode({
-    success: (res) => {
-      console.log(res)
-    },
   })
 }
 
